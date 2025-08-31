@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Search, Filter, Plus, MoreVertical, CheckCircle, Clock, AlertCircle, X } from 'lucide-react';
+import { Search,Plus, MoreVertical, CheckCircle, Clock, AlertCircle, } from 'lucide-react';
 
 const statuses = {
   open: { label: 'Open', icon: AlertCircle, color: 'bg-yellow-100 text-yellow-800' },
