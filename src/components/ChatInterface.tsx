@@ -321,7 +321,8 @@ export function ChatInterface() {
         return {
           response: data.response,
           suggestions: data.suggestions,
-          products: data.products
+          products: data.products,
+          category: category
         };
       }
     }
