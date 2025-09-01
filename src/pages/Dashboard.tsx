@@ -66,7 +66,7 @@ export default function Dashboard() {
           ))}
         </div>
         <div className="px-4 py-3 bg-gray-50 text-right">
-          <a href="/tickets" className="text-sm font-medium text-blue-600 hover:text-blue-500">
+          <a href="#" className="text-sm font-medium text-blue-600 hover:text-blue-500">
             View all tickets →
           </a>
         </div>
