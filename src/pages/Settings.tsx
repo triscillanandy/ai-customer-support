@@ -37,7 +37,7 @@ export default function Settings() {
                 <input
                   type="text"
                   className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"
-                  defaultValue="John"
+                  defaultValue="Maria"
                 />
               </div>
               <div>
@@ -45,7 +45,7 @@ export default function Settings() {
                 <input
                   type="text"
                   className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"
-                  defaultValue="Doe"
+                  defaultValue="Triscy"
                 />
               </div>
               <div className="sm:col-span-2">
@@ -53,7 +53,7 @@ export default function Settings() {
                 <input
                   type="email"
                   className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"
-                  defaultValue="john@example.com"
+                  defaultValue="maritis33@example.com"
                 />
               </div>
             </div>

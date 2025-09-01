@@ -114,10 +114,10 @@ export function Sidebar() {
           <Link to="/settings" className="flex-shrink-0 w-full group block">
             <div className="flex items-center">
               <div className="h-9 w-9 rounded-full bg-gray-300 flex items-center justify-center">
-                <span className="text-gray-600 text-sm font-medium">JD</span>
+                <span className="text-gray-600 text-sm font-medium">MT</span>
               </div>
               <div className="ml-3">
-                <p className="text-sm font-medium text-gray-700 group-hover:text-gray-900">John Doe</p>
+                <p className="text-sm font-medium text-gray-700 group-hover:text-gray-900">Maria Triscy</p>
                 <p className="text-xs font-medium text-gray-500 group-hover:text-gray-700">View profile</p>
               </div>
             </div>

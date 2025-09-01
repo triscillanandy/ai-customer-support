@@ -900,7 +900,7 @@ return (
           {aiTyping && (
             <div className="flex items-center mt-4 text-gray-400 text-sm">
               <div className="flex-1 border-t border-gray-200"></div>
-              <span className="px-2">Zazu is thinking...</span>
+              <span className="px-2">Zazu is typing...</span>
               <div className="flex-1 border-t border-gray-200"></div>
             </div>
           )}
